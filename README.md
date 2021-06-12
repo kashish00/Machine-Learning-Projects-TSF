@@ -1,5 +1,6 @@
 # Machine-Learning-Projects-TSF
-Task-1 : Prediction using Supervised ML (Level - Beginner)
+
+# Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 ● Predict the percentage of an student based on the no. of study hours.
 
@@ -7,12 +8,12 @@ Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
-Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters
   and represent it visually.
 
-Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
+# Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
@@ -21,7 +22,7 @@ Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
   
 ● What all business problems you can derive by exploring the data?
 
-Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
+# Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
@@ -29,7 +30,7 @@ Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
 
 ● What all security issues and insights you can derive by EDA?
 
-Task-5 : Exploratory Data Analysis - Sports (Level - Advanced)
+# Task-5 : Exploratory Data Analysis - Sports (Level - Advanced)
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
@@ -38,7 +39,7 @@ Task-5 : Exploratory Data Analysis - Sports (Level - Advanced)
   
 ● Suggest teams or players a company should endorse for its products.
 
-Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+# Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
 ● Create the Decision Tree classifier and visualize it graphically.
 
