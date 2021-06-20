@@ -53,4 +53,15 @@
    sentimental analysis of news headlines
    
 ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
-  
+
+# Task-8 : Timeline Analysis : Covid-19 (Level - Advanced)
+
+● Create a storyboard showing spread of Covid-19 cases in your country or
+  any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP  
+
+●  Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+
+●  Tableau workbook: https://public.tableau.com/views/Task8_Covid19/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+ 
